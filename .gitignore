@@ -1,0 +1,21 @@
+# Compiled output
+out/
+build/
+bin/
+*.class
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse / VS Code
+.classpath
+.project
+.settings/
+.vscode/
+
+# Dependencies
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db

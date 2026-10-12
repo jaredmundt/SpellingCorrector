@@ -2,7 +2,7 @@ package spell;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.Scanner;;
+import java.util.Scanner;
 import java.util.Vector;
 
 public class SpellCorrector implements ISpellCorrector
